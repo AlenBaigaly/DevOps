@@ -1,0 +1,7 @@
+thresholds:
+  cpu: 80
+  memory: 70
+
+telegram:
+  bot_token: "BOT_TOKEN"
+  chat_id: "CHAT_ID" # You can take it from https://t.me/userinfobot
